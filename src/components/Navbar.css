@@ -1,0 +1,17 @@
+.navbar {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Adds a subtle shadow */
+  }
+  
+  .navbar-brand img {
+    border-radius: 50%; /* Optional: Makes the logo circular */
+  }
+  
+  .nav-link {
+    font-size: 1rem;
+    font-weight: 500;
+  }
+  
+  .nav-link:hover {
+    text-decoration: underline; /* Optional: Adds a hover effect */
+  }
+  
